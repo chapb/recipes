@@ -1,6 +1,6 @@
 
 
-# Lemon Load Cake
+# Lemon Loaf Cake
 
 | ITEM | VALUE |
 | ---- | ----- |
