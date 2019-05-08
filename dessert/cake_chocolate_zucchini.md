@@ -42,6 +42,7 @@
  - [Optional] in another bowl, mix the dry ingredients.
  - Add the dry ingredients to the wet ingredients, mixing until moist.
  - Fold in the chocolate chips.
+ - Grease and flour the 13 x 9 baking pan.
  - Bake at 350 for 45 minutes
 
 
